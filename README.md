@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/Syrus24"><img src="https://api.daily.dev/devcards/58d516432224427faf5105b67280e7f4.png?r=03c" width="400" alt="Amir BABIO's Dev Card"/></a>
+
 <!--
 **Smith-DLAB/Smith-DLAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
