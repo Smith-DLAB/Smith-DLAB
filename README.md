@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <!-- daily.dev BOOKMARKS:START -->
 - [Q&amp;A: Warehouse robots that feel by sight](https://app.daily.dev/posts/CzuUaCsfe?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
-- [Google pauses hiring, Netflix loses nearly 1M customers, and Slack increases prices – TechCrunch](https://app.daily.dev/posts/sV7HXDqaG?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
 - [Carbon, a new programming language from Google, aims to be C++ successor](https://app.daily.dev/posts/-ITdocFGv?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
 - [Create a Full-Stack App: Nuxt.js, NestJS, Astra DB](https://app.daily.dev/posts/49hESmxtQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
 - [How to Authenticate and Authorize User Using JWT in NodeJS](https://app.daily.dev/posts/AFiGGUeov?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
+- [How to set up Laravel WebSockets on a subdomain](https://app.daily.dev/posts/4uZrxZZUO?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
 <!-- daily.dev BOOKMARKS:END -->
