@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- daily.dev BOOKMARKS:START -->
+- [How to Implement The Mobile First CSS Approach](https://app.daily.dev/posts/zagkliOo6?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
+- [Frontend resources! 🚀](https://app.daily.dev/posts/j6QHjcY5k?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
 - [16 Websites for Design Inspiration in 2024](https://app.daily.dev/posts/m6EZ7Vx9t?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
 - [Building a chat app with Socket.io and React 🚀](https://app.daily.dev/posts/Zpd_2zyts?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
 - [Micro-frontend with React and Next.js](https://app.daily.dev/posts/gOE5wsIuM?utm_source=rss&utm_medium=bookmarks&utm_campaign=j59ENI8rK8nGaQ5tpRoab)
